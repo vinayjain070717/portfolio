@@ -1,0 +1,10 @@
+{
+	"serialNumber":2,
+	"title":"Data Structure Visualizer",
+	"intro":"It is a website through which student who want to learn data structure can learn it. This website is designed in mind that a 10th class student can also learn then if they want to. All the things in this website are developed with some intension about user convinienve and for best usage.",
+	"toolsAndTechnologies":"HTML ,Java Script,CSS,Bootstrap",
+	"quote":"Sometimes when my friends see my website they say to me that, is this a video is playing. Then i say with a big smile that its not video its my work of many days and nights by which canvas programming act like video playing",
+	"imagePath":"assets/images/ds-visualizer/",
+	"imageNames":["linearSort.png","linkedList.png","stack.png","queue.png"],
+	"websiteLink":"https://ds-visualizer.000webhostapp.com/"
+}

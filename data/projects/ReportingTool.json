@@ -1,0 +1,10 @@
+{
+	"serialNumber":6,
+	"title":"Reporting Tool",
+	"intro":"In startups making templates for invoices, certificates and other type of reports is a time consuming process. This tool is for reducing the time taken to generate reports.",
+	"toolsAndTechnologies":"Python, HTML, CSS, Bootstrap, Node js",
+	"quote":"Everything you can imagine is real.",
+	"imagePath":"assets/images/reporting-tool/",
+	"imageNames":[],
+	"websiteLink":""
+}

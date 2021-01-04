@@ -1,0 +1,10 @@
+{
+	"serialNumber":9,
+	"title":"Remote Screen Sharing Application",
+	"intro":"With this Application one computer can see and control other computer. In this controller device can see the screen of other device, and can control other device mouse and keyboard remotely.",
+	"toolsAndTechnologies":"Java, Java Swing, Java Socket Programming",
+	"quote":"Sometimes real life problems seems very easy behind problems faced in making these applications.",
+	"imagePath":"assets/images/team-viewer/",
+	"imageNames":[],
+	"websiteLink":""
+}

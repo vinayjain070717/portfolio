@@ -1,0 +1,10 @@
+{
+	"serialNumber":5,
+	"title":"Photo Editing Tool",
+	"intro":"It is a photo editing tool which will do almost all the basic operation of manipulation in image, I will highly encourage you to plese see the video for more details.",
+	"toolsAndTechnologies":"Python, Tkinter, Image Processing, Opencv",
+	"quote":"Literally, This is my first project and I don't know a lot in programming in these days, but somehow I completed it.",
+	"imagePath":"assets/images/photo-editing-tool/",
+	"imageNames":[],
+	"websiteLink":""
+}

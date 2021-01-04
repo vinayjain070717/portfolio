@@ -1,0 +1,10 @@
+{
+	"serialNumber":10,
+	"title":"Logging and Retrieval Server",
+	"intro":"Logging Server can maintain logs of given applications using File System. And Retrieval Server is another server that will retrieve logs according to our needs. Both Logging and Retrieval Server share same file system but take request separately.",
+	"toolsAndTechnologies":"Java, Java Threading, Java Socket",
+	"quote":"This tools help in making big applications effectively.",
+	"imagePath":"assets/images/logging-server/",
+	"imageNames":[],
+	"websiteLink":""
+}

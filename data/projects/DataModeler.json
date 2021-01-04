@@ -1,0 +1,10 @@
+{
+	"serialNumber":1,
+	"title":"Data Modeler",
+	"intro":"It is web application in which we can create our account and make database design using tables and my application will generate sql script and you can use it directy.",
+	"toolsAndTechnologies":"HTML,CSS, Bootstrap, Javascript, JQuery, MySQL,ORM Framework, Web Services Framework",
+	"quote":"Making cool tools for cool people is good reason for me to sacrifice my sleep.",
+	"imagePath":"assets/images/data-modeler/",
+	"imageNames":["dm1.png","dm2.png","dm3.png","dm4.png","dm5.png","dm6.png"],
+	"websiteLink":""
+}

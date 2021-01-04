@@ -1,0 +1,10 @@
+{
+	"serialNumber":8,
+	"title":"Inventory Management System",
+	"intro":"This is a software for managing a inventory. It is developed with layered programming with separate data layer, business layer and presentation layer. Firstly, I made this with use of file system where I store and retrieve records from files but later I did it with database system.",
+	"toolsAndTechnologies":"Java, Java Swing, Mysql",
+	"quote":"Code teaches you how to face really big problems.",
+	"imagePath":"assets/images/inventory-management-system/",
+	"imageNames":[],
+	"websiteLink":""
+}

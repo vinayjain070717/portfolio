@@ -1,0 +1,10 @@
+{
+	"serialNumber":3,
+	"title":"Project Approval System",
+	"intro":"In this student and faculty can register according to their group and then login to their account. We also check the user validity by sending an email to their registered mail id Then student can send their project submission to their assigned faculties. And faculties can approve it if project is correct and deny with a comment if there is some mistakes in the project.",
+	"toolsAndTechnologies":" HTML, CSS, Bootstrap, PHP, MySQL",
+	"quote":"Life becomes easier when you can think and make apps for your daily needs.",
+	"imagePath":"assets/images/project-approval-system/",
+	"imageNames":["pas1.png","pas2.png","pas3.png","pas4.png","pas5.png"],
+	"websiteLink":""
+}

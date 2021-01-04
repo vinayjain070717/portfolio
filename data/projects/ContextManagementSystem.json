@@ -1,0 +1,10 @@
+{
+	"serialNumber":7,
+	"title":"Context Management System",
+	"intro":"It is a CMS for admin for seeing communication between Drones and mobiles. In this admin can see and control various things in real world. Also, Along with this CMS I have made a android application that will interact with CMS. I am also making IOT devices to interact with mobile through CMS which is in progress.",
+	"toolsAndTechnologies":"Hibernate, Spring Boot, HTML, CSS, Bootstrap, Android, Java, Aurdino, websocket protocol",
+	"quote":"Everything seems big before start and small after it ends.",
+	"imagePath":"assets/images/context-management-system/",
+	"imageNames":[],
+	"websiteLink":""
+}
