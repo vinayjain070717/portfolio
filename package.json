@@ -1,18 +1,17 @@
 {
-  "name": "homeshoppingproject",
+  "name": "showcase",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "server1.0.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node server1.0.js"
   },
   "dependencies": {
     "express": "^4.17.0",
     "fs": "0.0.1-security",
     "http": "0.0.1-security",
     "path": "^0.12.0",
-    "twilio": "^3.46.0",
     "express-session": "^1.17.0"
   },
   "author": "",
