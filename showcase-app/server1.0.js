@@ -11,6 +11,7 @@ server.use("/css",expressUtility.static("./css/"))
 server.use("/images",expressUtility.static("./images/"))
 server.use("/fonts",expressUtility.static("./fonts/"))
 server.use("/data",expressUtility.static("./data/"))
+server.use(expressUtility.static(process.cwd()+"/showcase-app/"))
 
 
 var requests=new Map();
